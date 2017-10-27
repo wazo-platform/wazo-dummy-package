@@ -1,0 +1,5 @@
+wazo-dummy-package (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 27 Oct 2017 10:30:57 -0400
