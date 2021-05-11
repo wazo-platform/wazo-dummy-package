@@ -1,10 +1,10 @@
-wazo-dummy-package (1:1.0) private; urgency=medium
+wazo-dummy-package (1:0.1) private; urgency=medium
 
   * Test epoch version
 
  -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 27 Oct 2017 11:39:12 -0400
 
-wazo-dummy-package (0.1) unstable; urgency=low
+wazo-dummy-package (0.2) unstable; urgency=low
 
   * Initial Release.
 
