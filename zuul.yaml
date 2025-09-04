@@ -1,10 +1,10 @@
 - project:
     wazo-check:
       jobs:
-        - debian-packaging-bullseye
+        - debian-packaging-bookworm
     wazo-gate:
       jobs:
-        - debian-packaging-bullseye
+        - debian-packaging-bookworm
     auto-merge:
       jobs:
         - noop
